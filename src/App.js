@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Deployment is happening!
+          New Changes happening right now
         </p>
         <a
           className="App-link"
